@@ -3,6 +3,8 @@ Users can add tasks to the list, update, and delete tasks from the list. To disp
 - To add a new task to the list, user have to enter the task title and press Add Item button
 - Clicking on delete icon will delete that item from the list
 - To Update an Item, click on it enter the new title and press Update Item Button
-- ![image](https://user-images.githubusercontent.com/82168872/229863613-5d6dd70a-77d6-49c5-b069-8f63e810df9d.png)
-- ![image](https://user-images.githubusercontent.com/82168872/229863852-33988d80-d783-407f-8987-e3529ed00d4f.png)
+![image](https://user-images.githubusercontent.com/82168872/229864337-f4070789-829a-4f65-9dca-01bf569e142a.png) 
+![image](https://user-images.githubusercontent.com/82168872/229864223-f27947fe-7b90-4105-9553-d94f98294f58.png)
+![image](https://user-images.githubusercontent.com/82168872/229864161-e9f68cb8-f2fc-4143-bfce-4873f95eec63.png)
+
 
